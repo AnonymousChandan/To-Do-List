@@ -1,0 +1,52 @@
+.reg{
+    position: relative;
+    /* border: 2px solid black; */
+    width: 250px;
+    height: 250px;
+    margin: 80px;
+    left: 50px;
+    top: 50px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.btn{
+    color: red;
+    background-color: blueviolet;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+    top:80px;
+    margin-right: 20px;
+}
+.lg{
+    background-color: green;
+    color: azure;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+    top:80px;
+    
+}
+.cont{
+    position: relative;
+    border: 2px solid wheat;
+    height: 500px;
+    width: 500px;
+    margin: 200px;
+    left: 200px;
+}
+.ur{
+    position: relative;
+    left: 50px;
+    top:50px
+}
+.dr{
+    position: relative;
+    left: 50px;
+    top:60px
+}
+.cr{
+    position: relative;
+    left: 50px;
+    top:70px
+}

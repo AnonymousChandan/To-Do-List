@@ -1,0 +1,27 @@
+.login-full{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+.login{
+    text-align: center;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.header{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: end;
+    padding-right: 2em;
+    border: 5px solid green;
+    font-weight: 800;
+    font-size: xx-large;
+}
